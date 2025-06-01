@@ -1,6 +1,6 @@
 # U-ASK-Postgresql
 ---
-### 🔍 U-ASK: Spatial-Textual Query Engine – Setup Guide
+### U-ASK: Spatial-Textual Query Engine – Setup Guide
 
 **Project Overview**
 U-ASK is a spatial-textual query processing system designed to retrieve geospatial data using advanced algorithms like POWER and Boolean Range. It integrates **PostgreSQL** with **PostGIS** and **OpenSearch** to support scalable, efficient querying of location-based textual data. This guide outlines the steps to set up the environment, process data, build indexes, and run various query algorithms.
